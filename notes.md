@@ -2,8 +2,23 @@
 layout: default
 ---
 
-## Welcome to another page
 
-_yay_
+### Projects
+* this site
+*
+*
 
-[back](./)
+### Sites
+* how-to of how I did the site
+* experience in ungoogling
+* my macros
+*
+*
+
+### Shout outs to
+* atom.io
+* git
+* github
+* crouton
+*
+--
